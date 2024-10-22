@@ -24,7 +24,7 @@ This website can be used to present your professional profile, showcase your pro
  link :https://github.com/MarellaDeepika/PRODIGY_WD_04
 
 
-## Screenshot of the Website
+## Screenrecording of the Website
 
 
 
